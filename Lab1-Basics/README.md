@@ -8,14 +8,6 @@ First laboratory work exploring C# basics: console applications, compilation, de
 - User input/output handling
 - Basic C# syntax
 
-### Exercise 2: Command Line Compilation  
-- Compiled C# programs using `csc`
-- Understanding .NET compilation process
-
-### Exercise 3: Visual Studio Debugging
-- Step-by-step debugging with F10
-- Breakpoints and execution flow
-
-### Exercise 4: Exception Handling
+### Exercise 2: Exception Handling
 - Try-catch blocks implementation
 - Handling division by zero errors
