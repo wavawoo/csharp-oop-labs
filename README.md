@@ -8,11 +8,10 @@ Complete collection of laboratory works on Object-Oriented Programming in C#, co
 - Methods and parameters
 - Arrays and control structures
 
-### Object-Oriented Programming (Lab 6-9)
+### Object-Oriented Programming (Lab 6-8)
 - **Classes and Objects** - encapsulation, properties, methods
 - **Constructors and Destructors** - object lifecycle
 - **Inheritance and Polymorphism** - class hierarchies
-- **Interfaces and Abstract Classes** - contracts and implementations
 
 ### Advanced Topics (Lab 10)
 - **Delegates and Events** - callback patterns
